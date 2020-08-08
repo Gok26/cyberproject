@@ -1,0 +1,26 @@
+body{
+    background-image: url('/imgfolder/Themes-Cybersecurity.jpg');
+    opacity: 1;
+    position: relative;
+    font-family: 'Lemonada', cursive;
+    color:white
+    
+}
+#para{
+    color :yellowgreen;
+    margin:auto;
+}
+a:link{
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+
+}
+a:visited{
+    color: red;
+}
+
+a:hover {
+    text-decoration: underline;
+  }
